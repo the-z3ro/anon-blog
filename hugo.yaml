@@ -1,4 +1,4 @@
-baseURL: "https://example.com/"
+baseURL: "/"
 title: My Awesome Blog
 pagination:
   pagerSize: 5
