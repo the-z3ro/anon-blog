@@ -4,7 +4,7 @@ date: {{ .Date }}
 draft: false
 tags: []
 categories: []
-author: "Your Name"
+author: "Eshan"
 showToc: true
 TocOpen: false
 description: ""
