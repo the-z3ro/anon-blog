@@ -14,7 +14,7 @@ cover:
   caption: ""
 ---
 
-# Happy New Year!! (2026)
+## Happy New Year!!
 
 I’m Eshan, and I’m starting this blog as my personal online journal for this year and the years that follow.
 This is a place where I’ll document what I learn, what I try, what works, and what doesn’t.
