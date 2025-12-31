@@ -16,7 +16,7 @@ cover:
 
 # Happy New Year!! (2026)
 
-I’m Eshan, and I’m starting this blog as my personal online journal — for this year and the years that follow.
+I’m Eshan, and I’m starting this blog as my personal online journal for this year and the years that follow.
 This is a place where I’ll document what I learn, what I try, what works, and what doesn’t.
 Nothing fancy. Just honest records of my journey from this point onward.
 
