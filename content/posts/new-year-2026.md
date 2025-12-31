@@ -22,19 +22,12 @@ Nothing fancy. Just honest records of my journey from this point onward.
 
 If you’re reading this, I wish you a very happy new year 🙂
 
-**Things I want to learn this year:**
-
-1. DSA / Competitive Programming
-2. Web Development
-3. Machine Learning
-4. Ads & Freelancing
-
 **Personal things I want to work on:**
 
 1. Going to the gym regularly
 2. Learning how to be consistent
-3. Documenting and experimenting with my life and learnings
-4. Becoming more mentally mature
+3. Documenting and Experimenting with my life and learnings
+4. Mental Conditioning
 
 I’ll add more plans as I go.
 This blog will evolve as I do.
