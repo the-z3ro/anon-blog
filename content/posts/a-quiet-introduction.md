@@ -49,7 +49,7 @@ Some days it’s a movie scene that won’t leave my head or a thought that arri
 The blog will mirror that mess.  
 No niche, just a learning curve in real time.
 
-I’ll post weekly—more if life hands me something worth pinning down.  
+I’ll post weekly more if life hands me something worth pinning down.  
 I’ll share what I’m building, breaking, understanding, and doubting.
 
 Occasionally I’ll write about things that move me slower than code.  
