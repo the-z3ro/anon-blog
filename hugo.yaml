@@ -1,5 +1,5 @@
 baseURL: "/"
-title: My Awesome Blog
+title: A Quiet Record
 pagination:
   pagerSize: 5
 theme: PaperMod
@@ -16,10 +16,10 @@ outputs:
     - JSON
 
 params:
-  mainSections: ["posts", "projects"]
+  mainSections: ["posts"]
   env: production
-  description: "My blog about programming and life"
-  author: Your Name
+  description: "This blog is my personal journey of coding and life."
+  author: Eshan
 
   defaultTheme: auto
   ShowReadingTime: true
@@ -31,8 +31,8 @@ params:
   ShowRssButtonInSectionTermList: true
 
   homeInfoParams:
-    Title: "Hi there 👋"
-    Content: Welcome to my blog where I write about coding, projects, and more!
+    Title: "I write what stays"
+    Content: "A personal record of what I learn, build, and become."
 
   # socialIcons:
   # - name: github
@@ -46,10 +46,10 @@ params:
     linkFullImages: true
     responsiveImages: true
 
-  editPost:
-    URL: "https://github.com/yourusername/blog/tree/main/content"
-    Text: "Suggest Changes"
-    appendFilePath: true
+  # editPost:
+  #   URL: "https://github.com/yourusername/blog/tree/main/content"
+  #   Text: "Suggest Changes"
+  #   appendFilePath: true
 
 menu:
   main:
