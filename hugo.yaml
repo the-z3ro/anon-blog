@@ -31,8 +31,8 @@ params:
   ShowRssButtonInSectionTermList: true
 
   homeInfoParams:
-    Title: "I write what stays"
-    Content: "A personal record of what I learn, build, and become."
+    Title: "Building, Breaking, Thinking"
+    Content: "A 21 year old’s attempt to debug the world from building things to questioning existence."
 
   # socialIcons:
   # - name: github
