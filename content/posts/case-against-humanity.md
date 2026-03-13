@@ -2,7 +2,7 @@
 title: "The Case Against Humanity"
 date: 2026-01-23T20:23:13+05:30
 draft: false
-tags: []
+tags: ["views"]
 categories: []
 author: "Eshan"
 showToc: true
