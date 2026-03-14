@@ -1,5 +1,5 @@
 ---
-title: "Basic Human Like Memory for Local Llm"
+title: "How I Built a Human-Like Memory for My Local LLM Without Using Any Special Library"
 date: 2026-03-14T22:37:56+05:30
 draft: false
 tags: []
@@ -24,7 +24,7 @@ But there is a huge, annoying problem with local LLMs: **They are basically gold
 
 Every time you restart your python script, the AI forgets who you are, what you like, and what you talked about yesterday. I wanted to code a simple, human-like memory for my AI from scratch.
 
-I started with a really basic idea, hit a bunch of walls, and finally built something that actually works like a human brain. Here is my exact thinking process, all the logic explained simply, and the raw Python code to do it yourself. No complex classes or OOP junk—just raw, functional code.
+I started with a really basic idea, hit a bunch of walls, and finally built something that actually works like a human brain. Here is my exact thinking process, all the logic explained simply, and the raw Python code to do it yourself.
 
 ---
 
