@@ -2,7 +2,7 @@
 title: "How I Built a Human-Like Memory for My Local LLM Without Using Any Special Library"
 date: 2026-03-14T22:37:56+05:30
 draft: false
-tags: []
+tags: ["code", "python"]
 categories: []
 author: "Eshan"
 showToc: true
@@ -13,8 +13,6 @@ cover:
   alt: ""
   caption: ""
 ---
-
-# How I Built a Human-Like Memory for My Local AI
 
 This is a very naive and beginner way to just get the thing done in the most easy and raw way possible, I won't be using any specific library or complex code for this project, this is just and exploration code.
 
