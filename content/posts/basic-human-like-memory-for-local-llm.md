@@ -14,7 +14,7 @@ cover:
   caption: ""
 ---
 
-This is a very naive and beginner way to just get the thing done in the most easy and raw way possible, I won't be using any specific library or complex code for this project, this is just and exploration code.
+This is a very naive and beginner way to just get the thing done in the most easy and raw way possible, I won't be using any specific library or complex code for this project, this is just an exploration code.
 
 Ok, so I am a beginner coder, currently in my sophomore year of college, and recently I got super obsessed with running local AI models on my laptop using Ollama.
 
@@ -258,7 +258,7 @@ def clean_up_memories():
 
 Right now, my logic is super raw: I am just dumping the entire long_term list into every prompt. As the list grows, we'll hit the token limit again!
 
-To fix that, you'd eventually need to write a search function to only grab relevant memories (like if word in user_input:). But basic keyword searching is flawed. If I type "I love dogs," a keyword search looks for the exact word "dogs." What if I type "I love puppies"? The code won't find the "dogs" memory. Humsns don't work like that. We understand vibes and context, not just exact words.
+To fix that, you'd eventually need to write a search function to only grab relevant memories (like if word in user_input:). But basic keyword searching is flawed. If I type "I love dogs," a keyword search looks for the exact word "dogs." What if I type "I love puppies"? The code won't find the "dogs" memory. Humans don't work like that. We understand vibes and context, not just exact words.
 
 **The Level-Up: Vector Databases (ChromaDB)**
 To make this 100% perfect, you would replace the JSON search with something called a Vector Database (like ChromaDB). I won't code it here to keep things simple, but basically, ChromaDB turns words into numbers. So "Dog" and "Puppy" are stored right next to each other mathematically.
@@ -267,7 +267,7 @@ If you use ChromaDB, you don't search by words, you search by _meaning_. That's 
 
 ### Final Thoughts
 
-This whole project started because I wanted my AI to feel a little more human. I wanted it to say, _"Hey Sam, how was your Python exam yesterday?"_ without me having to remind it that I even had an exam.
+This whole project started because I wanted my AI to feel a little more human. I wanted it to say, "Hey Sam, how was your Python exam yesterday?" without me having to remind it that I even had an exam.
 
 By just using a few basic lists, a JSON file, and some clever background prompts, we built a digital brain. It has a short-term memory (active chat), a sleep cycle (extraction), and a forgetting curve (strength decay).
 
